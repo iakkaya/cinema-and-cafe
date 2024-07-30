@@ -1,0 +1,18 @@
+C:\Users\Asus\source\repos\fiyatlandirma uygulamasi\fiyatlandirma uygulamasi\bin\Debug\net8.0-windows\fiyatlandirma uygulamasi.exe
+C:\Users\Asus\source\repos\fiyatlandirma uygulamasi\fiyatlandirma uygulamasi\bin\Debug\net8.0-windows\fiyatlandirma uygulamasi.deps.json
+C:\Users\Asus\source\repos\fiyatlandirma uygulamasi\fiyatlandirma uygulamasi\bin\Debug\net8.0-windows\fiyatlandirma uygulamasi.runtimeconfig.json
+C:\Users\Asus\source\repos\fiyatlandirma uygulamasi\fiyatlandirma uygulamasi\bin\Debug\net8.0-windows\fiyatlandirma uygulamasi.dll
+C:\Users\Asus\source\repos\fiyatlandirma uygulamasi\fiyatlandirma uygulamasi\bin\Debug\net8.0-windows\fiyatlandirma uygulamasi.pdb
+C:\Users\Asus\source\repos\fiyatlandirma uygulamasi\fiyatlandirma uygulamasi\obj\Debug\net8.0-windows\fiyatlandirma_uygulamasi.Form1.resources
+C:\Users\Asus\source\repos\fiyatlandirma uygulamasi\fiyatlandirma uygulamasi\obj\Debug\net8.0-windows\fiyatlandirma_uygulamasi.Properties.Resources.resources
+C:\Users\Asus\source\repos\fiyatlandirma uygulamasi\fiyatlandirma uygulamasi\obj\Debug\net8.0-windows\fiyatlandirma uygulamasi.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\fiyatlandirma uygulamasi\fiyatlandirma uygulamasi\obj\Debug\net8.0-windows\fiyatlandirma uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\fiyatlandirma uygulamasi\fiyatlandirma uygulamasi\obj\Debug\net8.0-windows\fiyatlandirma uygulamasi.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\fiyatlandirma uygulamasi\fiyatlandirma uygulamasi\obj\Debug\net8.0-windows\fiyatlandirma uygulamasi.AssemblyInfo.cs
+C:\Users\Asus\source\repos\fiyatlandirma uygulamasi\fiyatlandirma uygulamasi\obj\Debug\net8.0-windows\fiyatlandirma uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\fiyatlandirma uygulamasi\fiyatlandirma uygulamasi\obj\Debug\net8.0-windows\fiyatlandirma uygulamasi.sourcelink.json
+C:\Users\Asus\source\repos\fiyatlandirma uygulamasi\fiyatlandirma uygulamasi\obj\Debug\net8.0-windows\fiyatlandirma uygulamasi.dll
+C:\Users\Asus\source\repos\fiyatlandirma uygulamasi\fiyatlandirma uygulamasi\obj\Debug\net8.0-windows\refint\fiyatlandirma uygulamasi.dll
+C:\Users\Asus\source\repos\fiyatlandirma uygulamasi\fiyatlandirma uygulamasi\obj\Debug\net8.0-windows\fiyatlandirma uygulamasi.pdb
+C:\Users\Asus\source\repos\fiyatlandirma uygulamasi\fiyatlandirma uygulamasi\obj\Debug\net8.0-windows\fiyatlandirma uygulamasi.genruntimeconfig.cache
+C:\Users\Asus\source\repos\fiyatlandirma uygulamasi\fiyatlandirma uygulamasi\obj\Debug\net8.0-windows\ref\fiyatlandirma uygulamasi.dll
